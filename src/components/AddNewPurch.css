@@ -1,0 +1,11 @@
+.container{
+	width: 300px;
+	height: 60px;
+	border: 1px solid rgb(230, 140, 225);
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+}
+.title_product{
+	font-size: 20px;
+}	
